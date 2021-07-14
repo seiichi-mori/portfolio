@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body {
+background-color: rgba(52,235,158,.5);
+background-image: url(../image/unnamed.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: #ffffff;
+    
+ 
+}    
+h1 {
+color: darkorange;    
+}
+h2 {
+color: rgb(52, 235, 158);
+}
+
+
+ul {
+color: kuro
+}    
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+  font-family: 'Merienda', cursive;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box {
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+a {
+  color: #0bd;
+  text-decoration: none;
+}
+
+
